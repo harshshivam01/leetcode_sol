@@ -5,10 +5,12 @@ public:
         if(n==1){
             return nums[0];
         }
-        vector<int>newnums(n-1);
+       while(n>1){
         for(int i=0;i<n-1;i++){
-            newnums[i]=(nums[i]+nums[i+1])%10;
+            nums[i]=(nums[i]+nums[i+1])%10;
         }
-      return  triangularSum(newnums);
+        n--;
+        }
+      return nums[0];
     }
 };
