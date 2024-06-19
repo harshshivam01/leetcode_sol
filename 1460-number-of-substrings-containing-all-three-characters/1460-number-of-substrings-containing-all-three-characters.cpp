@@ -6,7 +6,7 @@ public:
       unordered_map<char,int>map;
       while(r<s.size()){
           map[s[r]]++;
-          while(map['a']>0&&map['b']>0&&map['c']>0&&l<=r){
+          while(map['a']>0&&map['b']>0&&map['c']>0&&l<r){
                  map[s[l]]--;
                  ans+=(s.size()-r);
                  l++;
