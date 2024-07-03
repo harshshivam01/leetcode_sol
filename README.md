@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0784-insert-into-a-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
