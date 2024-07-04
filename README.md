@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0784-insert-into-a-binary-search-tree) |
