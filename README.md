@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0208-implement-trie-prefix-tree) |
+| [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 ## Design
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
