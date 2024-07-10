@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshshivam02/leetcode_sol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/harshshivam02/leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/harshshivam02/leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1720-crawler-log-folder](https://github.com/harshshivam02/leetcode_sol/tree/master/1720-crawler-log-folder) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
+| [1720-crawler-log-folder](https://github.com/harshshivam02/leetcode_sol/tree/master/1720-crawler-log-folder) |
 ## Design
 |  |
 | ------- |
