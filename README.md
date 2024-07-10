@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/harshshivam02/leetcode_sol/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/harshshivam02/leetcode_sol/tree/master/0207-course-schedule) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Monotonic Stack
 |  |
@@ -196,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/harshshivam02/leetcode_sol/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/harshshivam02/leetcode_sol/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
