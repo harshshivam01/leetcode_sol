@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0145-binary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshshivam02/leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/harshshivam02/leetcode_sol/tree/master/1720-crawler-log-folder) |
 ## Breadth-First Search
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshshivam02/leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/harshshivam02/leetcode_sol/tree/master/1720-crawler-log-folder) |
 ## Design
 |  |
