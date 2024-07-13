@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/harshshivam02/leetcode_sol/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/0200-number-of-islands) |
+| [0213-house-robber-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshshivam02/leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/harshshivam02/leetcode_sol/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 ## Graph
 |  |
