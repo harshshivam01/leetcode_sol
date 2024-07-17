@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshshivam02/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshshivam02/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0208-implement-trie-prefix-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0208-implement-trie-prefix-tree) |
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/harshshivam02/leetcode_sol/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshshivam02/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/harshshivam02/leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/harshshivam02/leetcode_sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0213-house-robber-ii) |
