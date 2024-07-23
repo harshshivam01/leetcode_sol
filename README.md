@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/harshshivam02/leetcode_sol/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/0200-number-of-islands) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/harshshivam02/leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshshivam02/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
+| [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/harshshivam02/leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/harshshivam02/leetcode_sol/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0213-house-robber-ii) |
