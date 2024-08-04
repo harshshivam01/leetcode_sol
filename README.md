@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0064-minimum-path-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/harshshivam02/leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/harshshivam02/leetcode_sol/tree/master/0198-house-robber) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/0200-number-of-islands) |
 ## Recursion
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshshivam02/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harshshivam02/leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/harshshivam02/leetcode_sol/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/harshshivam02/leetcode_sol/tree/master/0198-house-robber) |
