@@ -1,60 +1,50 @@
 class Solution {
 public:
-    bool check(int newx, int newy, int n, int m) {
-        return (newx >= 0 && newy >= 0 && newx < n && newy < m);
+    int check(int x, int y, int m, int n) {
+        if (x < m && y < n && x >= 0 && y >= 0)
+            return 1;
+        else
+            return 0;
     }
-
     int orangesRotting(vector<vector<int>>& grid) {
-        int n = grid.size();
-        int m = grid[0].size();
-        int count = 0;
+        int m = grid.size();
+        int n = grid[0].size();
+        int days = 0;
+        int cnt = 0;
+        int total = 0;
+
         queue<pair<int, int>> q;
-        vector<vector<int>> visi(n, vector<int>(m, 0));
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 2) {
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] != 0)
+                    total++;
+                if (grid[i][j] == 2)
                     q.push({i, j});
-                    visi[i][j] = 1;
-                }
             }
         }
-        int dx[4] = {0, 0, 1, -1};
-        int dy[4] = {1, -1, 0, 0};
-
+        int dx[4] = {1, -1, 0, 0};
+        int dy[4] = {0, 0, 1, -1};
         while (!q.empty()) {
-            int size = q.size();
-            bool changed = false;
-            
+            int k = q.size();
+            cnt += k;
 
-                for (int k = 0; k < size; k++) {
+            while (k--) {
                 int x = q.front().first;
                 int y = q.front().second;
                 q.pop();
                 for (int i = 0; i < 4; i++) {
                     int newx = x + dx[i];
                     int newy = y + dy[i];
-
-                    if (check(newx, newy, n, m) && visi[newx][newy] == 0 &&
-                        grid[newx][newy] == 1) {
-                        visi[newx][newy] = 1;
+                    if (check(newx, newy, m, n) == 1 && grid[newx][newy] == 1) {
                         grid[newx][newy] = 2;
                         q.push({newx, newy});
-                        changed = true;
                     }
                 }
             }
-            if (changed) {
-                count++;
-            }
+            if (!q.empty())
+                days++;
         }
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 1) {
-                    return -1;
-                }
-            }
-        }
-        return count;
+        return total == cnt ? days : -1;
     }
 };
