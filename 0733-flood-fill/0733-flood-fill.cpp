@@ -11,7 +11,7 @@ public:
         image[sr][sc]=color;
         queue<pair<int ,int>>q;
         vector<vector<int>>visi(m,vector<int >(n,0));
-        // visi[sr][sr]=1;
+         visi[sr][sc]=1;
         q.push({sr,sc});
         int dx[4]={0,0,1,-1};
         int dy[4]={1,-1,0,0};
