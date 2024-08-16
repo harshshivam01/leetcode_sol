@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/harshshivam02/leetcode_sol/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/harshshivam02/leetcode_sol/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harshshivam02/leetcode_sol/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshshivam02/leetcode_sol/tree/master/0207-course-schedule) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshshivam02/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
+| [0127-word-ladder](https://github.com/harshshivam02/leetcode_sol/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/harshshivam02/leetcode_sol/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/harshshivam02/leetcode_sol/tree/master/0273-integer-to-english-words) |
