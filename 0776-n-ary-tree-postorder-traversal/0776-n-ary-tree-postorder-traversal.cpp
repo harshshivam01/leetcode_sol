@@ -20,17 +20,19 @@ public:
 
 class Solution {
 public:
-     vector<int >ans;
-    vector<int> postorder(Node* root) {
-        if(root==NULL)return {};
-       
-      
+    void helper(Node*root,vector<int>&ans){
+        if(root==NULL)return ;
         int n =root->children.size();
         for(int i=0;i<n;i++){
-            postorder(root->children[i]);
+            helper(root->children[i],ans);
         }
        
         ans.push_back(root->val);
+    }
+    vector<int> postorder(Node* root) {
+        if(root==NULL)return {};
+        vector<int >ans;
+        helper(root,ans);
         
         return ans ;
     }
