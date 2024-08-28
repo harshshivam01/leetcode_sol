@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/harshshivam02/leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshshivam02/leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Hash Table
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshshivam02/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
+| [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/harshshivam02/leetcode_sol/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/harshshivam02/leetcode_sol/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
+| [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshshivam02/leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/harshshivam02/leetcode_sol/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
+| [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/harshshivam02/leetcode_sol/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/harshshivam02/leetcode_sol/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
+| [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 ## Recursion
 |  |
 | ------- |
