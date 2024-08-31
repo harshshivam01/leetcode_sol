@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshshivam02/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harshshivam02/leetcode_sol/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshshivam02/leetcode_sol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshshivam02/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshshivam02/leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
