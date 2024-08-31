@@ -1,33 +1,37 @@
 class Solution {
 public:
     bool closeStrings(string word1, string word2) {
-        int m =word1.size();
-        int n=word2.size();
-        if(m!=n)return false;
         
-        map<char,int>mp1;
-       map<char,int >mp2;
-       for(auto ch:word1){
-        mp1[ch]++;
-       }
-       for(auto ch:word2){
-        mp2[ch]++;
-       }
-         for(auto ch:word1){
-            if(mp1[ch]!=0&&mp2[ch]==0||mp2[ch]!=0&&mp1[ch]==0)return false;
-         }
-       vector<int>p;
-       for(auto it:mp1){
-        p.push_back(it.second);
-       }
-        vector<int>p1;
-       for(auto it:mp2){
-        p1.push_back(it.second);
-       }
-       sort(p.begin(),p.end());
-       sort(p1.begin(),p1.end());
-       
-      if(p==p1)return true;
-       return false;
+        if(word1.size()!=word2.size()){
+            
+            return false;
+        }
+        vector<int>arr1(26,0);
+        vector<int>arr2(26,0);
+        
+        for(int i= 0; i<word1.size() ; i++){
+            
+            arr1[word1[i]-'a']++;
+            arr2[word2[i]-'a']++;
+            
+            
+        }
+        for(int i=0 ; i<26 ; i++){
+            
+            if(arr1[i]==0 && arr2[i]!=0){
+                return false;
+            }
+        }
+        
+        sort(arr1.begin(), arr1.end());
+        sort(arr2.begin(), arr2.end());
+        for(int i=0; i<26;i++){
+            
+            if(arr1[i]!=arr2[i]){
+                return false;
+            }
+        }
+        return true;
+        
     }
 };
