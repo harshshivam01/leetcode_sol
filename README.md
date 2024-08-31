@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshshivam02/leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshshivam02/leetcode_sol/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/harshshivam02/leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
 | [2645-pass-the-pillow](https://github.com/harshshivam02/leetcode_sol/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Sliding Window
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/harshshivam02/leetcode_sol/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
 | [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
+| [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
 ## Recursion
 |  |
 | ------- |
