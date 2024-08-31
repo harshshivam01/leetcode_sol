@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/harshshivam02/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/harshshivam02/leetcode_sol/tree/master/0733-flood-fill) |
+| [0735-asteroid-collision](https://github.com/harshshivam02/leetcode_sol/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/harshshivam02/leetcode_sol/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/harshshivam02/leetcode_sol/tree/master/1036-rotting-oranges) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0145-binary-tree-postorder-traversal) |
+| [0735-asteroid-collision](https://github.com/harshshivam02/leetcode_sol/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/harshshivam02/leetcode_sol/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/harshshivam02/leetcode_sol/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/harshshivam02/leetcode_sol/tree/master/2299-merge-nodes-in-between-zeros) |
