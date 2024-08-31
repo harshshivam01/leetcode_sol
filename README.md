@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/harshshivam02/leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshshivam02/leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/harshshivam02/leetcode_sol/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshshivam02/leetcode_sol/tree/master/0238-product-of-array-except-self) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshshivam02/leetcode_sol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1833-find-the-highest-altitude](https://github.com/harshshivam02/leetcode_sol/tree/master/1833-find-the-highest-altitude) |
 ## String
 |  |
 | ------- |
