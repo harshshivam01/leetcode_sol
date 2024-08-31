@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/harshshivam02/leetcode_sol/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshshivam02/leetcode_sol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshshivam02/leetcode_sol/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/harshshivam02/leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/harshshivam02/leetcode_sol/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshshivam02/leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/harshshivam02/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshshivam02/leetcode_sol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshshivam02/leetcode_sol/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshshivam02/leetcode_sol/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/harshshivam02/leetcode_sol/tree/master/0542-01-matrix) |
 | [1250-longest-common-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/1250-longest-common-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshshivam02/leetcode_sol/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Graph
 |  |
 | ------- |
