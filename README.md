@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/harshshivam02/leetcode_sol/tree/master/0130-surrounded-regions) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0099-recover-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0112-path-sum) |
 | [0127-word-ladder](https://github.com/harshshivam02/leetcode_sol/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/harshshivam02/leetcode_sol/tree/master/0130-surrounded-regions) |
