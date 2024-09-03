@@ -12,19 +12,24 @@
  */
 class Solution {
 public:
-    void helper(TreeNode* root, int &count,int maxi) {
-        if(root==NULL)return ;
-        if(root->left!=NULL&&root->right!=NULL)count--;
-        if(root->val>=maxi)maxi=root->val;count++;
-        if(root->left!=NULL)helper(root->left,count,maxi);
-        if(root->right!=NULL)helper(root->right,count,root->val);
+    void helper(TreeNode* root, int& count, int maxi) {
+        if (root == NULL)
+            return;
+
+        if (root->val >= maxi) {
+            maxi = root->val;
+            count++;
+        }
+        if (root->left != NULL)
+            helper(root->left, count, maxi);
+        if (root->right != NULL)
+            helper(root->right, count, maxi);
     }
     int goodNodes(TreeNode* root) {
-        if (root == NULL)
-            return 0;
+
         int count = 0;
-        int maxi=INT_MIN;
-        helper(root, count,maxi);
+
+        helper(root, count, root->val);
         return count;
     }
 };
