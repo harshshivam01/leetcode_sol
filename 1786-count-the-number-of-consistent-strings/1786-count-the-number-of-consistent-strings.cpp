@@ -1,7 +1,7 @@
 class Solution {
 public:
     int countConsistentStrings(string allowed, vector<string>& words) {
-        int count=0;
+          int count=0;
          int n=allowed.size();
 
         unordered_set<char>mp(allowed.begin(),allowed.end());
