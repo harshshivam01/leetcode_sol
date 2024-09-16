@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/harshshivam02/leetcode_sol/tree/master/0542-01-matrix) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/harshshivam02/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/harshshivam02/leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshshivam02/leetcode_sol/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [1078-remove-outermost-parentheses](https://github.com/harshshivam02/leetcode_sol/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/harshshivam02/leetcode_sol/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/1250-longest-common-subsequence) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/harshshivam02/leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/harshshivam02/leetcode_sol/tree/master/0273-integer-to-english-words) |
+| [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/harshshivam02/leetcode_sol/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/harshshivam02/leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/harshshivam02/leetcode_sol/tree/master/1642-water-bottles) |
