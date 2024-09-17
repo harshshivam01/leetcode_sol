@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/harshshivam02/leetcode_sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/harshshivam02/leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harshshivam02/leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshshivam02/leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshshivam02/leetcode_sol/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/harshshivam02/leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/harshshivam02/leetcode_sol/tree/master/0801-is-graph-bipartite) |
 | [0871-keys-and-rooms](https://github.com/harshshivam02/leetcode_sol/tree/master/0871-keys-and-rooms) |
+| [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Topological Sort
 |  |
 | ------- |
