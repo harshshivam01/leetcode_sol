@@ -9,39 +9,36 @@ public:
     int nearestExit(vector<vector<char>>& maze, vector<int>& entrance) {
         int m = maze.size();
         int n = maze[0].size();
-        int ans = 0;
+        int x = entrance[0];
+        int y = entrance[1];
+        queue<pair<int, int>> q;
+        q.push({x, y});
+        maze[x][y] = '+';
+        int step = 0;
         int dx[4] = {0, 0, 1, -1};
         int dy[4] = {1, -1, 0, 0};
 
-        queue<pair<int, int>> q;
-        int p = entrance[0];
-        int r = entrance[1];
-        maze[p][r] = '+';
-
-        q.push({p, r});
-
         while (!q.empty()) {
             int size = q.size();
-            for (int j = 0; j < size; j++) {
-                int x = q.front().first;
-                int y = q.front().second;
+            for (int i = 0; i < size; i++) {
+                int p = q.front().first;
+                int r = q.front().second;
                 q.pop();
-                if ((x == 0 || y == 0 || x == m - 1 || y == n - 1)) {
-                    if ((x != entrance[0] or y != entrance[1]))
-                        return ans;
+                if (p == 0 || r == 0 || p == m - 1 || r == n - 1) {
+                    if (p != entrance[0] || r != entrance[1]) {
+                        return step;
+                    }
                 }
-
-                for (int i = 0; i < 4; i++) {
-                    int nx = x + dx[i];
-                    int ny = y + dy[i];
-
-                    if (check(nx, ny, m, n)==1 && maze[nx][ny] == '.') {
+                for (int j = 0; j < 4; j++) {
+                    int nx = p + dx[j];
+                    int ny = r + dy[j];
+                    if (check(nx, ny, m, n)==true && maze[nx][ny] == '.') {
                         maze[nx][ny] = '+';
                         q.push({nx, ny});
                     }
                 }
             }
-            ans++;
+            step++;
         }
         return -1;
     }
