@@ -1,48 +1,40 @@
 class Solution {
 public:
-    bool dfs(int i, vector<int>& visi, vector<int>& ans, vector<int> adj[],
-             vector<int>& inst) {
-        visi[i] = 1;
-        inst[i] = 1;
-        // stack<int>st;
-        // st.push(i);
-        for (auto it : adj[i]) {
-            if (visi[it] == 0) {
-
-                if (dfs(it, visi, ans, adj, inst) == false)
-                    return false;
-
-            } else if (inst[it] == 1) {
-                return false;
-            }
-        }
-        inst[i]=0;
-        ans.push_back(i);
-        return true;
-        // st.push(i);
-        // while(!st.empty()){
-        //     ans.push_back(st.top());
-        //     st.pop();
-        // }
-    }
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        // code here
+        int V = numCourses;
         vector<int> adj[numCourses];
-
+       vector<int>ans;
         for (const auto& pre : prerequisites) {
             adj[pre[1]].push_back(pre[0]);
         }
-        vector<int> visi(numCourses, 0);
-        vector<int> inst(numCourses, 0);
-        vector<int> ans;
-
-        for (int i = 0; i < numCourses; i++) {
-            if (visi[i] == 0) {
-                if (!dfs(i, visi, ans, adj, inst))
-                    return {};
+        int count = 0;
+        queue<int> q;
+        vector<int> indegree(V + 1, 0);
+        for (int i = 0; i < V; i++) {
+            for (auto it : adj[i]) {
+                indegree[it]++;
             }
         }
-        reverse(ans.begin(), ans.end());
-        return ans;
+        for (int i = 0; i < V; i++) {
+            if (indegree[i] == 0) {
+                q.push(i);
+            }
+        }
+
+        while (!q.empty()) {
+            int x = q.front();
+            q.pop();
+            ans.push_back(x);
+           count++;
+            for (auto it : adj[x]) {
+                indegree[it]--;
+                if (indegree[it] == 0) {
+                    q.push(it);
+                }
+            }
+        }
+      
+    if(count==V)return ans;
+    else return {};
     }
 };
