@@ -1,17 +1,17 @@
 class Solution {
 public:
-   bool dfs(vector<int>adj[],vector<int>&visi,vector<int>&pathvisi,vector<int >&check ,int node){
+   bool dfs(vector<int>adj[],vector<int>&visi,vector<int>&pathvisi,int node){
     pathvisi[node]=1;
     visi[node]=1;
     for(auto it : adj[node]){
         if(visi[it]==0){
-            if(dfs(adj,visi,pathvisi,check,it)==true)return true;
+            if(dfs(adj,visi,pathvisi,it)==true)return true;
         }
         else if(pathvisi[it])return true;
     }
     
     pathvisi[node]=0;
-    check[node]=1;
+   
     return false ;
    }
    
@@ -26,11 +26,11 @@ public:
         }
         vector<int>visi(n+1,0);
         vector<int>pathvisi(n+1,0);
-        vector<int>check(n+1,0);
+      
         vector<int>ans;
         for(int i=0;i<n;i++){
             if(visi[i]==0){
-                dfs(adj,visi,pathvisi,check,i);
+                dfs(adj,visi,pathvisi,i);
             }
         }
         for(int i=0;i<n;i++){
