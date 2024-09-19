@@ -9,8 +9,9 @@ public:
         }
         else if(pathvisi[it])return true;
     }
-    check[node]=1;
+    
     pathvisi[node]=0;
+    check[node]=1;
     return false ;
    }
    
