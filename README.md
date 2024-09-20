@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/harshshivam02/leetcode_sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harshshivam02/leetcode_sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshshivam02/leetcode_sol/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harshshivam02/leetcode_sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/harshshivam02/leetcode_sol/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/harshshivam02/leetcode_sol/tree/master/0871-keys-and-rooms) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harshshivam02/leetcode_sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
