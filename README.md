@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/harshshivam02/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/harshshivam02/leetcode_sol/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/harshshivam02/leetcode_sol/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Tree
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/harshshivam02/leetcode_sol/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshshivam02/leetcode_sol/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harshshivam02/leetcode_sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/harshshivam02/leetcode_sol/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/harshshivam02/leetcode_sol/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/harshshivam02/leetcode_sol/tree/master/0871-keys-and-rooms) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/harshshivam02/leetcode_sol/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harshshivam02/leetcode_sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
