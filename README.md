@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/harshshivam02/leetcode_sol/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
+| [0812-rotate-string](https://github.com/harshshivam02/leetcode_sol/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/harshshivam02/leetcode_sol/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/harshshivam02/leetcode_sol/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/1250-longest-common-subsequence) |
@@ -474,4 +475,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/harshshivam02/leetcode_sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/harshshivam02/leetcode_sol/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
