@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshshivam02/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/harshshivam02/leetcode_sol/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/harshshivam02/leetcode_sol/tree/master/1207-delete-nodes-and-return-forest) |
+| [1256-rank-transform-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/harshshivam02/leetcode_sol/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1256-rank-transform-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/harshshivam02/leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshshivam02/leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
