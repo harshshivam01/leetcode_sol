@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/harshshivam02/leetcode_sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshshivam02/leetcode_sol/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harshshivam02/leetcode_sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshshivam02/leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshshivam02/leetcode_sol/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/harshshivam02/leetcode_sol/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/harshshivam02/leetcode_sol/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshshivam02/leetcode_sol/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/harshshivam02/leetcode_sol/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/harshshivam02/leetcode_sol/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/harshshivam02/leetcode_sol/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshshivam02/leetcode_sol/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
