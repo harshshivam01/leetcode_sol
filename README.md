@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/harshshivam02/leetcode_sol/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/harshshivam02/leetcode_sol/tree/master/0907-koko-eating-bananas) |
+| [0968-beautiful-array](https://github.com/harshshivam02/leetcode_sol/tree/master/0968-beautiful-array) |
 | [1036-rotting-oranges](https://github.com/harshshivam02/leetcode_sol/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshshivam02/leetcode_sol/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/harshshivam02/leetcode_sol/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
+| [0968-beautiful-array](https://github.com/harshshivam02/leetcode_sol/tree/master/0968-beautiful-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/harshshivam02/leetcode_sol/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/harshshivam02/leetcode_sol/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
+| [0968-beautiful-array](https://github.com/harshshivam02/leetcode_sol/tree/master/0968-beautiful-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/harshshivam02/leetcode_sol/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/harshshivam02/leetcode_sol/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/harshshivam02/leetcode_sol/tree/master/1642-water-bottles) |
