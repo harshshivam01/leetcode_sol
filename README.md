@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/harshshivam02/leetcode_sol/tree/master/0542-01-matrix) |
+| [0561-array-partition](https://github.com/harshshivam02/leetcode_sol/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/harshshivam02/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/harshshivam02/leetcode_sol/tree/master/0733-flood-fill) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/harshshivam02/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0334-increasing-triplet-subsequence) |
+| [0561-array-partition](https://github.com/harshshivam02/leetcode_sol/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0624-maximum-distance-in-arrays) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/harshshivam02/leetcode_sol/tree/master/0890-lemonade-change) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
+| [0561-array-partition](https://github.com/harshshivam02/leetcode_sol/tree/master/0561-array-partition) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/1256-rank-transform-of-an-array) |
@@ -492,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/harshshivam02/leetcode_sol/tree/master/0812-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/harshshivam02/leetcode_sol/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
