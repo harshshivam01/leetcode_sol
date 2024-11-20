@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshshivam02/leetcode_sol/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/harshshivam02/leetcode_sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Greedy
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshshivam02/leetcode_sol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshshivam02/leetcode_sol/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/harshshivam02/leetcode_sol/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/harshshivam02/leetcode_sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/harshshivam02/leetcode_sol/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/harshshivam02/leetcode_sol/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2470-removing-stars-from-a-string](https://github.com/harshshivam02/leetcode_sol/tree/master/2470-removing-stars-from-a-string) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/harshshivam02/leetcode_sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Design
 |  |
 | ------- |
