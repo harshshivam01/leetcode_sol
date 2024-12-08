@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/harshshivam02/leetcode_sol/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/harshshivam02/leetcode_sol/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2413-smallest-number-in-infinite-set](https://github.com/harshshivam02/leetcode_sol/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshshivam02/leetcode_sol/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/harshshivam02/leetcode_sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
+| [2413-smallest-number-in-infinite-set](https://github.com/harshshivam02/leetcode_sol/tree/master/2413-smallest-number-in-infinite-set) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Bucket Sort
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0208-implement-trie-prefix-tree) |
 | [0969-number-of-recent-calls](https://github.com/harshshivam02/leetcode_sol/tree/master/0969-number-of-recent-calls) |
+| [2413-smallest-number-in-infinite-set](https://github.com/harshshivam02/leetcode_sol/tree/master/2413-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
@@ -522,4 +525,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/harshshivam02/leetcode_sol/tree/master/0561-array-partition) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/harshshivam02/leetcode_sol/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
