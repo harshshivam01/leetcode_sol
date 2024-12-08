@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/harshshivam02/leetcode_sol/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshshivam02/leetcode_sol/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2636-maximum-subsequence-score](https://github.com/harshshivam02/leetcode_sol/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/harshshivam02/leetcode_sol/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/harshshivam02/leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harshshivam02/leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2636-maximum-subsequence-score](https://github.com/harshshivam02/leetcode_sol/tree/master/2636-maximum-subsequence-score) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/harshshivam02/leetcode_sol/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2636-maximum-subsequence-score](https://github.com/harshshivam02/leetcode_sol/tree/master/2636-maximum-subsequence-score) |
 | [2846-robot-collisions](https://github.com/harshshivam02/leetcode_sol/tree/master/2846-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshshivam02/leetcode_sol/tree/master/2413-smallest-number-in-infinite-set) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/harshshivam02/leetcode_sol/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2636-maximum-subsequence-score](https://github.com/harshshivam02/leetcode_sol/tree/master/2636-maximum-subsequence-score) |
 ## Bucket Sort
 |  |
 | ------- |
