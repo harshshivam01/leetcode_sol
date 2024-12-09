@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/harshshivam02/leetcode_sol/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/harshshivam02/leetcode_sol/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/harshshivam02/leetcode_sol/tree/master/0561-array-partition) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/harshshivam02/leetcode_sol/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/harshshivam02/leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/harshshivam02/leetcode_sol/tree/master/0733-flood-fill) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/harshshivam02/leetcode_sol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/harshshivam02/leetcode_sol/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/harshshivam02/leetcode_sol/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/harshshivam02/leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/harshshivam02/leetcode_sol/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/harshshivam02/leetcode_sol/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/harshshivam02/leetcode_sol/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/harshshivam02/leetcode_sol/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/harshshivam02/leetcode_sol/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/harshshivam02/leetcode_sol/tree/master/0443-string-compression) |
 | [0539-minimum-time-difference](https://github.com/harshshivam02/leetcode_sol/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/harshshivam02/leetcode_sol/tree/master/0812-rotate-string) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/harshshivam02/leetcode_sol/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/harshshivam02/leetcode_sol/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/harshshivam02/leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/harshshivam02/leetcode_sol/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/harshshivam02/leetcode_sol/tree/master/1073-number-of-enclaves) |
@@ -481,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/harshshivam02/leetcode_sol/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/harshshivam02/leetcode_sol/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/harshshivam02/leetcode_sol/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/harshshivam02/leetcode_sol/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/harshshivam02/leetcode_sol/tree/master/0820-find-eventual-safe-states) |
@@ -533,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/harshshivam02/leetcode_sol/tree/master/2413-smallest-number-in-infinite-set) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/harshshivam02/leetcode_sol/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
