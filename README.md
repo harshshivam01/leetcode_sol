@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshshivam02/leetcode_sol/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/harshshivam02/leetcode_sol/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/harshshivam02/leetcode_sol/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/harshshivam02/leetcode_sol/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/harshshivam02/leetcode_sol/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
