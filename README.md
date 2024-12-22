@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/harshshivam02/leetcode_sol/tree/master/0561-array-partition) |
 | [0624-maximum-distance-in-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/harshshivam02/leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/harshshivam02/leetcode_sol/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/harshshivam02/leetcode_sol/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/harshshivam02/leetcode_sol/tree/master/0735-asteroid-collision) |
 | [0876-hand-of-straights](https://github.com/harshshivam02/leetcode_sol/tree/master/0876-hand-of-straights) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/harshshivam02/leetcode_sol/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/harshshivam02/leetcode_sol/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/harshshivam02/leetcode_sol/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/harshshivam02/leetcode_sol/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/harshshivam02/leetcode_sol/tree/master/1833-find-the-highest-altitude) |
