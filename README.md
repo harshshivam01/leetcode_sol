@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/harshshivam02/leetcode_sol/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/harshshivam02/leetcode_sol/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0907-koko-eating-bananas](https://github.com/harshshivam02/leetcode_sol/tree/master/0907-koko-eating-bananas) |
