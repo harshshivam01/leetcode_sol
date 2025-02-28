@@ -599,4 +599,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harshshivam02/leetcode_sol/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/harshshivam02/leetcode_sol/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/harshshivam02/leetcode_sol/tree/master/2456-construct-smallest-number-from-di-string) |
+## Database
+|  |
+| ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/harshshivam02/leetcode_sol/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
