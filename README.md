@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/harshshivam02/leetcode_sol/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2035-count-sub-islands](https://github.com/harshshivam02/leetcode_sol/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/harshshivam02/leetcode_sol/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/harshshivam02/leetcode_sol/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/harshshivam02/leetcode_sol/tree/master/2428-equal-row-and-column-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/harshshivam02/leetcode_sol/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/harshshivam02/leetcode_sol/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/harshshivam02/leetcode_sol/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/harshshivam02/leetcode_sol/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/harshshivam02/leetcode_sol/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/harshshivam02/leetcode_sol/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/harshshivam02/leetcode_sol/tree/master/2456-construct-smallest-number-from-di-string) |
