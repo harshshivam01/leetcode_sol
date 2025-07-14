@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/harshshivam02/leetcode_sol/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/harshshivam02/leetcode_sol/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/harshshivam02/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/harshshivam02/leetcode_sol/tree/master/0078-subsets) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/harshshivam02/leetcode_sol/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/harshshivam02/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/harshshivam02/leetcode_sol/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshshivam02/leetcode_sol/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/harshshivam02/leetcode_sol/tree/master/0347-top-k-frequent-elements) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshshivam02/leetcode_sol/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/harshshivam02/leetcode_sol/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/harshshivam02/leetcode_sol/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/harshshivam02/leetcode_sol/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harshshivam02/leetcode_sol/tree/master/0070-climbing-stairs) |
