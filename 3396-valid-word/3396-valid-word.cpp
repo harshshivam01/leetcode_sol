@@ -1,0 +1,24 @@
+class Solution {
+public:
+    bool isValid(string word) {
+        if (word.size() < 3) {
+            return false;
+        }
+        int vowels = 0, consonants = 0;
+        string vowelList = "aeiouAEIOU";
+
+        for (char c : word) {
+            if (isalpha(c)) {
+                if (vowelList.find(c) != string::npos) {
+                    vowels++;
+                } else {
+                    consonants++;
+                }
+            } else if (!isdigit(c)) {
+                return false; // invalid character
+            }
+        }
+
+        return vowels >= 1 && consonants >= 1;
+    }
+};
