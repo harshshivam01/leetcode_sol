@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/harshshivam02/leetcode_sol/tree/master/2470-removing-stars-from-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/harshshivam02/leetcode_sol/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/harshshivam02/leetcode_sol/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3396-valid-word](https://github.com/harshshivam02/leetcode_sol/tree/master/3396-valid-word) |
 ## Design
 |  |
 | ------- |
